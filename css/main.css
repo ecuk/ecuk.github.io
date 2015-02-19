@@ -1,7 +1,9 @@
 body {
-  padding-top: 50px;
+  // uncomment next line for navbar-fixed-top
+  //padding-top: 50px;
 }
 
 .sidebar {
-  margin-top: 40px;
+  // uncomment next line for navbar-fixed-top
+  //margin-top: 40px;
 }
